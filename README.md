@@ -1,4 +1,4 @@
-#Bollywood Hungama Scraper# 
+#Bollywood Hungama Scraper
 
 Using this scraper you can scrape the whole data from bollywoodhungama.com
 
